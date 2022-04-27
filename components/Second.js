@@ -29,7 +29,7 @@ export default function Second() {
         <div className="flex max-w-[450px] flex-col justify-center items-center text-center pb-7 p-4">
             <Image src={AnyFile} height={100} width={120}/>
             <h2 className="text-2xl font-bold">Store and type of life </h2>
-            <h3>Whether you're sharing holidays photos of work documents Fylo has you covered allowing for all file types to be securely stored and shared</h3>
+            <h3>Whether you re sharing holidays photos of work documents Fylo has you covered allowing for all file types to be securely stored and shared</h3>
 
         </div>
 
